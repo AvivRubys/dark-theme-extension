@@ -1,0 +1,14 @@
+{
+    "name": "dark-theme-extension",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "build": "webpack --mode production"
+    },
+    "devDependencies": {
+        "copy-webpack-plugin": "^4.5.1",
+        "webpack": "^4.8.3",
+        "webpack-cli": "^2.1.4"
+    }
+}
